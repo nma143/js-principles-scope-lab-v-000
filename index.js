@@ -4,3 +4,8 @@ function upperCaseCustomerName()
 {
   customerName = 'BOB';
 }
+function  setBestCustomer()
+{
+
+  
+}
